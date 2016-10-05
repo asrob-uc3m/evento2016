@@ -1,8 +1,8 @@
 ---
 title: "¡Inscríbete!"
-bg: turquoise
+bg: '#ff0000'
 color: white
-fa-icon: film
+fa-icon: anchor
 ---
 
 ### Pronto estará disponible la inscripción en actividades!!!
