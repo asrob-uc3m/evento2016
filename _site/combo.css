@@ -516,42 +516,42 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-mas { border-color: #0fbfcf; }
-  #mas { background-color: #0fbfcf !important; color: #f8f8f8; }
-  #mas a { color: #f8f8f8; }
-  #mas .sectiondivider { color: #0fbfcf; }
-
-  
-  
-  
-  nav .p-talleres { border-color: #c869bf; }
-  #talleres { background-color: #c869bf !important; color: #f8f8f8; }
-  #talleres a { color: #f8f8f8; }
-  #talleres .sectiondivider { color: #c869bf; }
-
-  
-  
-  
-  nav .p-charlas { border-color: #63BD2F; }
-  #charlas { background-color: #63BD2F !important; color: #f8f8f8; }
-  #charlas a { color: #f8f8f8; }
-  #charlas .sectiondivider { color: #63BD2F; }
-
-  
-  
-  
-  nav .p-programa { border-color: #fab125; }
-  #programa { background-color: #fab125 !important; color: #111111; }
-  #programa a { color: #111111; }
-  #programa .sectiondivider { color: #fab125; }
-
-  
-  
-  
-  nav .p-donde { border-color: #49a7e9; }
-  #donde { background-color: #49a7e9 !important; color: #f8f8f8; }
+  nav .p-donde { border-color: #0fbfcf; }
+  #donde { background-color: #0fbfcf !important; color: #f8f8f8; }
   #donde a { color: #f8f8f8; }
-  #donde .sectiondivider { color: #49a7e9; }
+  #donde .sectiondivider { color: #0fbfcf; }
+
+  
+  
+  
+  nav .p-más { border-color: #c869bf; }
+  #más { background-color: #c869bf !important; color: #f8f8f8; }
+  #más a { color: #f8f8f8; }
+  #más .sectiondivider { color: #c869bf; }
+
+  
+  
+  
+  nav .p-talleres { border-color: #63BD2F; }
+  #talleres { background-color: #63BD2F !important; color: #f8f8f8; }
+  #talleres a { color: #f8f8f8; }
+  #talleres .sectiondivider { color: #63BD2F; }
+
+  
+  
+  
+  nav .p-charlas { border-color: #fab125; }
+  #charlas { background-color: #fab125 !important; color: #111111; }
+  #charlas a { color: #111111; }
+  #charlas .sectiondivider { color: #fab125; }
+
+  
+  
+  
+  nav .p-programa { border-color: #49a7e9; }
+  #programa { background-color: #49a7e9 !important; color: #f8f8f8; }
+  #programa a { color: #f8f8f8; }
+  #programa .sectiondivider { color: #49a7e9; }
 
   
   
