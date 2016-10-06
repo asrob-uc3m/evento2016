@@ -36,3 +36,7 @@ colors:
 kramdown:
   auto_ids:  false
 
+collections:
+  - charlas
+  - talleres
+
