@@ -893,3 +893,16 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(odd){background-color: #bbbbbb}
+tr:nth-child(1){background-color: #999999}
+
+
