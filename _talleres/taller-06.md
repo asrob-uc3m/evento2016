@@ -5,5 +5,5 @@ bio: Máster en Robótica y Automatización y Graduado en Ingeniería de Tecnolo
 date: 26-10-2016
 time: 12:00-14:00
 link: https://twitter.com/JorFru_
-description: KiCAD Drawdio!, ¡el lápiz musical! A partir del proyecto opensource de [Jay Silver](http://web.media.mit.edu/~silver/drawdio/), los chicos de UC3Music hecho algunas modificaciones para tener más volumen de sonido, una PCB muy fácil de soldar y preparada para principiantes. Aunque lo del sonido dulce y harmonioso se les ha ido de las manos... Descubre el proyecto en [GitHub](https://github.com/UC3Music/drawdio/)
+description: KiCAD es uno de los softwares más importantes del hardware opensource, ya que con él podemos diseñar placas libres. En este taller aprenderás lo necesario para manejarte a gusto en este entorno, y conocerás el circuito del [Drawdio, ¡el lápiz musical!](https://github.com/UC3Music/drawdio/), el cual tomaremos como ejemplo.  *Se ofrecerá documentación extra para complementar la información dada en el taller.*
 ---
