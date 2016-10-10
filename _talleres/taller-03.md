@@ -1,7 +1,7 @@
 ---
 title: Taller de soldadura: construye tu Drawdio
 speaker: Jorge Frutos (JorFru)
-bio:  Estudiando lo que le echan en la UC3M, pero esa no es la cara que le gusta de la ingeniería. Lo que le mola es crear, compartir y aprender con la tecnología, sobre todo en el mundillo maker. Y a parte de la tecnología le mola el Taekwondo y la música: los instrumentos musicales y los altavoces... Le encantan los altavoces.
+bio:  Estudiando lo que le echan en la UC3M, pero esa no es la cara que le gusta de la ingeniería. Lo que le mola es crear, compartir y aprender con la tecnología, sobre todo en el mundillo maker. Y a parte de la tecnología le mola el Taekwondo y la música\: los instrumentos musicales y los altavoces... Le encantan los altavoces.
 date: 25-10-2016
 time: 10:00-12:00
 link: https://twitter.com/JorFru_
