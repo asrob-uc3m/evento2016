@@ -7,4 +7,5 @@ time: 17:00-19:00
 link: https://twitter.com/guluc3m/followers
 description: En esta charla/taller se verá la sintaxis básica de Python, variables, sentencias de control, métodos... Todo lo necesario para empezar a trastear con él, aplicado a un ejemplo práctico de redes de neuronas muy fácil, sencillo y para toda la familia.
 requirements: Para seguir el taller será necesario un portátil con [Python](https://www.python.org/) instalado, a ser posible con GNU/Linux como sistema operativo.
+keyword: python
 ---

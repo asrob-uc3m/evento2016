@@ -7,4 +7,5 @@ time: 10:00-12:00
 link: https://twitter.com/drimmark
 description:  Git es una herramienta libre para el control de versiones del código. El hecho es que es mucho más potente que eso. En esta charla veremos los fundamentos de git, como hacerlo funcionar en nuestra máquina con nuestro código, algunas buenas prácticas y trabajaremos con servidores remotos.
 requirements:  Además de las ganas de cacharrear, es recomendable un portátil con git instalado (preferiblemente con Linux, pero no imprescindiblemente), ya que tendrá formato taller.
+keyword: git
 ---

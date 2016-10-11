@@ -7,4 +7,5 @@ time: 15:00-16:00
 link: https://twitter.com/jcarolinares
 description: Aprende cómo crear tus propias piezas orientadas a la impresión 3D para robots y otros proyectos utilizando el software libre FreeCad. Aprenderás los conceptos del diseño CAD para diseñar cualquier pieza que necesites en cuestión de minutos.
 requirements: Para participar en este taller te recomendamos que traigas un portátil con el software [FreeCAD](http://www.freecadweb.org/) instalado.
+keyword: freecad
 ---

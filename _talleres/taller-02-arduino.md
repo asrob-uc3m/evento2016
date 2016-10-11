@@ -8,5 +8,5 @@ link: https://github.com/roboticslab-uc3m/textiles
 description: Decídete a dar el paso para iniciarte en el mundo de Arduino. En este taller te enseñaremos a utilizar la IDE para realizar tu primer programa en C con nosotros. Aprenderás a mover servos, leer sensores, o controlar LEDs. Pero este taller es solo un punto de partida&#58; también conocerás las distintas placas que existen actualmente así como los principales recursos de autoaprendizaje para seguir avanzando en este mundillo por tu cuenta.
 
 requirements: Para este taller se requieren nociones básicas de C y ordenador portátil con [Arduino IDE](https://www.arduino.cc/en/Main/Software) instalado.
-
+keyword: arduino1
 ---
