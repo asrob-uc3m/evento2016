@@ -6,4 +6,5 @@ date: 24-10-2016
 time: 16:00-17:00
 link:  https://github.com/Obijuan
 description: Por primera vez en 30 años, se dispone de herramientas libres para cerrar el ciclo completo de diseño con FPGAs, desde el verilog hasta la generación del bitstream. Esto nos aproxima a la idea de poder tener nuestros propios chips libres. En esta charla primero se introducen las FPGAs y el proyecto Icestorm, y luego se muestran las herramientas apio, apio-ide y icestudio que permiten trabajar con las FPGAs libres de Lattice, de la familia ICE40. Se muestran las alternativas que hay de tarjetas entrenadoras con FPGAs libres y se hace hincapié en la Icezum Alhambra&#58; una tarjeta con FPGA compatible con Arduino diseñada en Pinos del Valle, Granada.
+keyword: fpgas
 ---
