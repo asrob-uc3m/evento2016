@@ -1,7 +1,9 @@
 ---
 title: Taller de KiCAD&#58; domina las PCB con software libre
-speaker: Roberto Herrera y Jorge Frutos (JorFru)
+speaker: Roberto Herrera
+speaker2: Jorge Frutos (JorFru)
 bio: Máster en Robótica y Automatización y Graduado en Ingeniería de Tecnologías Industriales por la UC3M. Miembro de la asociación Formula UC3M donde es el responsable de la sección de Electricidad y Electrónica desde 2012 y actualmente es Team Leader, desde Mayo de 2015.
+bio2: Estudiando lo que le echan en la UC3M, pero esa no es la cara que le gusta de la ingeniería. Lo que le mola es crear, compartir y aprender con la tecnología, sobre todo en el mundillo maker. Y a parte de la tecnología le mola el Taekwondo y la música&#58; los instrumentos musicales y los altavoces... Le encantan los altavoces.
 date: 26-10-2016
 time: 12:00-14:00
 link: https://twitter.com/JorFru_
