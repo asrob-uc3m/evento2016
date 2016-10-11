@@ -1,5 +1,5 @@
 ---
-title: Taller Arduino II&#58; Construye tu propio robot
+title: Taller Arduino II&#58; Construye tu propio robot y domina el mundo
 speaker: Quique Fernández Rodicio
 bio: Graduado en Ingeniería de Tecnologías Industriales, con un Máster en Robótica y Automatización, ambos por la Universidad Carlos III de Madrid. Actualmente estoy realizando mis estudios de doctorado como miembro del Grupo de Robótica Social dentro del RoboticsLab de la UC3M.
 link:
