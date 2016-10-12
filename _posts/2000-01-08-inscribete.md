@@ -1,7 +1,7 @@
 ---
 title: "¡Inscríbete!"
 bg: '#ff0000'
-color: white
+color: pink
 fa-icon: anchor
 ---
 
