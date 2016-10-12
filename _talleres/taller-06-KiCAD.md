@@ -9,5 +9,6 @@ time: 12:00-14:00
 lin2: https://twitter.com/JorFru_
 github2: https://github.com/JorFru
 description: KiCAD es uno de los softwares más importantes del hardware opensource, ya que con él podemos diseñar placas libres. En este taller aprenderás lo necesario para manejarte a gusto en este entorno, y conocerás el circuito del [Drawdio, ¡el lápiz musical!](https://github.com/UC3Music/drawdio/), el cual tomaremos como ejemplo.  *Se ofrecerá documentación extra para complementar la información dada en el taller.*
+requirements: Para el taller será necesario disponer de un portátil con [KiCAD](http://kicad-pcb.org/download/) instalado.
 keyword: kicad
 ---
