@@ -365,6 +365,6 @@ th, td {
     text-align: left;
     padding: 8px;
 }
-tr:nth-child(odd){background-color: #5f829b}
-tr:nth-child(1){background-color: #718fa5}
+tr:nth-child(odd){background-color: #9dc0d9}
+tr:nth-child(1){background-color: #5f829b}
 
