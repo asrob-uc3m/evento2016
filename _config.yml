@@ -34,6 +34,7 @@ colors:
   turquoise: '#349d98'
   grey:      '#cecfd1'
   pink:      '#6463a3'
+  red:       '#8e163f'
   
 
 kramdown:
