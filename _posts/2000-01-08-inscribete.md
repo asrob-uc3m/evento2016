@@ -1,6 +1,6 @@
 ---
 title: "¡Inscríbete!"
-bg: '#ff0000'
+bg: pink
 color: white
 fa-icon: anchor
 ---

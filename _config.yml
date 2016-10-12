@@ -28,10 +28,14 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
-  green:     '#9bcf2f'
+  green:     '#5da633'
   purple:    '#c869bf'
   orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  turquoise: '#3db6b0'
+  grey:      '#cecfd1'
+  pink:      '#5857b4'
+  red:       '#a61949'
+  
 
 kramdown:
   auto_ids:  false
