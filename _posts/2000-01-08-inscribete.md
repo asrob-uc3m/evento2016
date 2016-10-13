@@ -2,7 +2,7 @@
 title: "¡Inscríbete!"
 bg: pink
 color: white
-fa-icon: anchor
+fa-icon: sign-in
 ---
 
 ### Pronto estará disponible la inscripción en actividades!!!
