@@ -1,5 +1,5 @@
 ---
-title: Dextra
+title: Dextra - Prótesis robótica al alcance de todos
 speaker: Álvaro Villoslada
 bio: Soy Ingeniero Electrónico y actualmente estoy realizando un doctorado en robótica en la Universidad Carlos III de Madrid. Cuando era un niño, solía desmontar viejos aparatos electrónicos que encontraba por mi casa y me quedaba embobado mirando los circuitos que había dentro. También construía pequeños inventos totalmente inútiles, así que supongo que ya me había picado el gusanillo del cacharreo. Actualmente, disfruto trasteando con hardware (robots, electrónica, impresoras 3D) y mejorando mis habilidades de programación. Y aún hago pequeños inventos, ¡espero que más útiles que los que hacía en mi infancia!
 date: 25-10-2016
