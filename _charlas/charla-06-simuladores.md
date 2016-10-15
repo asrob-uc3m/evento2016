@@ -1,7 +1,7 @@
 ---
 title: Mi propio simulador de vuelo con Arduino
-speaker: (Por confirmar)
-bio: (Por confirmar)
+speaker: Jorge Martínez
+bio: Piloto y estudiante de Ingeniería Aeroespacial en la Universidad Carlos III de Madrid, cuenta con una amplia experiencia en el mundo de la aviación y la simulación aérea. Apasionado del cacharreo, a falta de poder permitirse un avión, decidió construir uno en el salón de su casa. Su idea es hacer de cualquier disciplina aeronáutica algo accesible para todos.
 date: 25-10-2016
 time: 13:00-14:00
 link: https://twitter.com/ClubVueloUC3M
