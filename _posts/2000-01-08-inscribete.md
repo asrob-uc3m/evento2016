@@ -5,4 +5,4 @@ color: white
 fa-icon: sign-in
 ---
 
-### Pronto estará disponible la inscripción en actividades!!!
+### Para inscribirse, solo hay que rellenar el siguiente formulario: https://goo.gl/forms/76ase7uPcUYfDKI22
