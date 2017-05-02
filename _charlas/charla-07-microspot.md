@@ -6,6 +6,7 @@ date: 25-10-2016
 time: 15:00-16:00
 link: https://twitter.com/elgambitero
 github: http://www.github.com/gvJaime
+video: https://youtu.be/hfDlSoykwHM?list=PLsVexTwov1BrPTIA504ss6HNhr9StUSG7
 description: MicroSpot es un escáner microscopio automático, nacido del ánimo de cacharreo, y desarrollado de manera abierta con tecnologías del mundo libre. A día de hoy, aspira a convertirse en la solución de bajo coste para el diagnóstico de enfermedades en paises en desarrollo.
 keyword: microspot
 ---
