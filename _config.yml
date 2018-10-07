@@ -11,7 +11,7 @@ permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-
+excerpt_separator: ""
 
 ### content configuration ###
 title:       "El Evento - 24-27 Octubre 2016 - UC3M (Leganés)"
